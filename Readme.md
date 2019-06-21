@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to localize the ASPxMenu control with a site map.
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2990/)**
+<!-- run online end -->
 
 
 <p>This example shows how to localize the ASPxMenu control with a site map.</p>
